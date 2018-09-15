@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(../../image/fondo.jpg); 
+	background-size: cover;
+}
+
+#header {
+	background-color: rgba(0,0,0,0.83);
+}
+
+#iconos {
+	margin-top: 20%;
+	padding-left: 15%;
+}
+
+.navbar {
+	height: 10%;
+	background-color: rgba(255,255,255,0.79);		
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: rgba(182,0,0,1.00);
+	text-decoration: none
+}
+
+article {
+	background-color: rgba(65,11,12,0.91);
+	color: black;
+}
+
+#titulogirametallica {
+	color: rgba(113,114,113,1.00);
+	text-align: center;
+}
+p {
+	color: white;
+	text-align: justify; 
+}
+
+#metallica {
+	width: 100%;
+	border: thin rgba(255,255,255,0.94) solid;
+	margin: 5px 0 0 0;
+	padding: 1px;
+}
+
+#comentario {
+	color: rgba(129,134,50,1.00);
+	margin: 10px;
+}
+
+#agregarcomment, #agregarcomment2 {
+	background-color: darkolivegreen;
+	margin: 10px;
+	padding: 10px;
+}
+
+article {
+	padding: 60px 0px;
+	border-bottom: thick ridge rgba(124,124,124,1.00);
+}
+
+#titulopaul {
+	color: rgba(113,114,113,1.00);
+	text-align: center;
+}
+
+#paul {
+	width: 100%;
+	border: thin white solid;
+}
+
+#comentario2 {
+	color: rgba(129,134,50,1.00);
+	margin: 10px;
+}
+
+#iconobus {
+	width: 100%;
+}
+
+#buscador {
+	margin-top: 10px;
+}
+#opciones-de-busqueda {
+	background-color: rgba(89,87,87,0.75);
+	background-size: contain;
+	width: 100%;
+ }
+
+li {
+	margin-top: 10px;
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	border-bottom: thin rgba(0,0,0,1.00) solid;
+}
+
+ul {
+	list-style: none;
+}
+
+a[id^=buscar] {
+	color: white;
+}
+
+a[id^=buscar]:hover {
+	color: red;
+}
