@@ -1,0 +1,159 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+:: Page Name 1
+:: Page Name 2
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+
+
+
+/* -----------------------------------------
+   Page Name 1
+----------------------------------------- */
+
+
+
+
+/* -----------------------------------------
+   Page Name 2
+----------------------------------------- */
+
+body {
+ background-image: url(../../image/fondo.jpg);
+}
+
+#contenido {
+	background-color: rgba(19,90,5,0.62);
+}
+
+#titulo, #slogan {
+	margin-left: 10px;
+	color: rgba(187,187,187,1.00);
+}
+
+#slogan {
+	text-align: right;
+}
+
+#buscador {
+	margin: 0px 10px 0px 10px;
+	padding: 0px 10px;
+}
+#navegacion {
+	margin-left: 25px;
+	border-top: thin solid rgba(139,138,138,1.00);
+	padding: 10px;
+}
+
+#listanav {
+	list-style: none;
+	border-spacing: 10px;
+}
+		
+#recetas, #plato, #inicio {
+	font-size: 1.75em;
+	color: rgba(39,142,200,1.00);
+	margin: 10px 0px;
+}
+
+#recetas:hover, #plato:hover, #inicio:hover {
+	color: rgba(188,39,42,1.00);
+}
+
+#inicio {
+	color: rgba(188,39,42,1.00);
+}
+
+#favoritos {
+	color: rgba(179,161,2,1.00);
+	background: rgba(45,44,44,0.60);
+	font-size: 2em;
+	margin-left: 5px;
+}
+
+#imagenesfavoritos {
+}
+
+img[id^=favoritos] {
+	margin: 10px 0px 5px 10px;
+	border: solid medium rgba(216,209,11,1.00);
+}
+#side {
+	border-right: medium solid rgba(63,63,63,1.00);
+}
+
+#columnhistorial {
+	margin-left: 20px;
+	background: rgba(45,44,44,0.60)
+}
+
+#historial {
+	color: rgba(179,161,2,1.00);
+	font-size: 2em;
+}
+
+
+p[id^=item] {
+	color: rgba(215,126,12,1.00);
+	font-size: 1.3em;
+}
+
+article {
+	margin: 10px;
+	background: rgba(35,35,35,0.60);
+}
+
+
+
+h1[id^=tituloentrada] {
+	color: rgba(173,162,8,1.00);
+	margin: 20px;
+	text-decoration: underline;
+}
+
+h3[id^=fechaentrada] {
+	color: rgba(187,78,4,1.00);
+	margin: 20px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+#arepafritaimg {
+	width: 100%;
+	margin: 25px;
+	align-content: center;
+	border: rgba(255,255,255,1.00) thin solid;
+}
+
+p[id^=texto] {
+	color: rgba(248,248,248,1.00);
+	margin-left: 20px;
+	margin-right: 5px;
+	text-align: justify;
+}
+
+.comentarios {
+	color: rgba(149,247,245,1.00);
+}
+
+.cajacomentario {
+	margin: 10px;
+}
+
+.titulousuario {
+	color: rgba(3,54,144,1.00);
+}
+
+#pizzahamburguesaimg {
+	width: 100%;
+	margin: 25px;
+	align-content: center;
+	border: rgba(255,255,255,1.00) thin solid;
+}
