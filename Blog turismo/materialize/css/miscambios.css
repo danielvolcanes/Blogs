@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+nav {
+	background-color:#0277bd;
+}
+
+#logo {
+	width: 200px;
+	margin: 10px;
+	border: thin solid rgba(0,0,0,1.00);
+	padding: 2px;
+}
+
+#slogan {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin: 100px 10px 20px;
+}
+
+#playa {
+	width: 100%;
+	margin: 5px;
+	padding: 2px;
+	border: thin solid black;
+}
+
+#iglesia {
+	width: 100%;
+	margin: 5px;
+	padding: 2px;
+	border: thin solid white;
+}
+
+#teleferico {
+	width: 100%;
+	margin: 5px;
+	padding: 2px;
+	border: thin solid red;
+}
+
+#central {
+	height: 500px;
+}
+
+#tovar {
+	width: 100%;
+	margin: 5px;
+	padding: 2px;
+	border: thin solid yellow;
+}
+
+#calle {
+		width: 100%;
+	margin: 5px;
+	padding: 2px;
+	border: thin solid rgba(32,192,13,1.00);
+}
+#rio {width: 100%;
+	margin: 5px;
+	padding: 2px;
+	border: thin solid black;}
+
+#monte {
+	width: 50%;
+	margin: 10px;
+	padding: 2px;
+}
+
+#articulo {
+	margin: 10px;
+}
+
+p {
+	text-align: justify;
+}
+
+#comentario {
+	margin: 10px;
+}
+#titulocomen {
+	margin-top: 10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 2em;
+}
+
+#comentario2{
+	margin: 10px;
+}
+
+#titulocomen2 {
+	margin-top: 10px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 2em;
+}
+
+#china {
+	width: 50%;
+	margin: 10px;
+	padding: 2px;
+}
+
+#articulo2 {
+	margin: 10px;
+}
+
+.redessociales {
+	width: 100%;
+	margin: 5px;
+	padding: 2px;
+}
